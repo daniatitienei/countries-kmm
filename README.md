@@ -21,8 +21,8 @@
 - Minimum iOS version 15.
 - 100% [SwiftUI](https://developer.apple.com/xcode/swiftui/) based
 
-# Apollo GraphQL
-- Is the all-purpose hub for your GraphQL API
+# GraphQL
+- Data query language and data manipulation language for APIs, and a query runtime engine.
 
 ![countries](https://user-images.githubusercontent.com/62098466/230791082-ab055207-20bd-41a4-bddf-c740fdb90cec.jpg)
 ![single_country](https://user-images.githubusercontent.com/62098466/230791085-13a8ccd0-5310-426b-b53f-0957d6a75d9c.jpg)
